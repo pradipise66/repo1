@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 1C5E-68AD
-
- Directory of C:\Users\A939780\learning_wa\git_learning\project1
-
-01/07/2020  03:11 PM    <DIR>          .
-01/07/2020  03:11 PM    <DIR>          ..
-01/07/2020  03:11 PM               140 test1.txt
-               1 File(s)            140 bytes
-               2 Dir(s)  106,427,072,512 bytes free
+change 1
